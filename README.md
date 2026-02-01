@@ -1,5 +1,9 @@
 # 🛰️ VensaSIM (ecSIM): The Sovereign SIM Protocol
 
+<p align="center">
+  <img src="logo.png" alt="ecSIM Logo" width="400">
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hackathon](https://img.shields.io/badge/Hackathon-ETHChiangMai-blueviolet)](http://ethchiangmai.com)
 [![Status](https://img.shields.io/badge/Status-Prototype/PoC-orange)](#)
@@ -74,6 +78,9 @@ This repository contains a full Python-based emulation of the VensaSIM ecosystem
 
 ### Running the Demo
 The demo showcases a full lifecycle: Key generation on a custom curve, registration with a network, and a secure authentication handshake.
+
+#### 🎥 Demo Video
+https://github.com/cozsta/ecsim/raw/main/demo.mp4
 
 ```bash
 python3 demo_en/main.py
