@@ -76,7 +76,7 @@ This repository contains a full Python-based emulation of the VensaSIM ecosystem
 The demo showcases a full lifecycle: Key generation on a custom curve, registration with a network, and a secure authentication handshake.
 
 ```bash
-python3 demo/main.py
+python3 demo_en/main.py
 ```
 
 ---
