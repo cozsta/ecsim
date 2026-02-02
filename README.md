@@ -90,7 +90,7 @@ python3 demo_en/main.py
 
 ## 🗺️ Roadmap
 - [ ] **Hardware PoC**: Implementation on Lattice iCE40 / RISC-V FPGA.
-- [ ] **VensaApplet**: A Rust-based open-source applet for sovereign identity.
+- [ ] **VensaApplet**: A Rust/Zig-based open-source applet for sovereign identity.
 - [ ] **NFC Interface**: Bringing ecSIM to physical proximity for secure login.
 - [ ] **Decentralized Provisioning**: Replacing GSMA PKI with on-chain identity verification.
 
@@ -99,7 +99,7 @@ python3 demo_en/main.py
 ## 📜 Manifesto
 *In the 21st century, the internet is real life. If our primary key to that life is a proprietary black box, we are not free. ecSIM is the first step toward reclaiming our digital borders.*
 
-**Built for ETHChiangMai 2025.** 🇹🇭
+**Built for ETHChiangMai 2026.** 🇹🇭
 
 ---
 *Disclaimer: This is a research prototype and cryptographic proof-of-concept. Use for educational purposes only.*
